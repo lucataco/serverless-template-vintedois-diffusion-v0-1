@@ -1,7 +1,7 @@
 
 # 🍌 Banana Serverless
 
-This repo gives a framework to serve ML models in production using simple HTTP servers.
+This repo is a template for using Vintedois (22h) Diffusion model on Banana's serverless GPU platform. Ready to be used for 1-Click deploy. Hggingface repo - [22h/vintedois-diffusion-v0-1](https://huggingface.co/22h/vintedois-diffusion-v0-1)
 
 # Quickstart
 **[Follow the quickstart guide in Banana's documentation to use this repo](https://docs.banana.dev/banana-docs/quickstart).** 
