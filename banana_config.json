@@ -1,0 +1,14 @@
+{
+    "name": "22h Vintedois Diffusion v0-1",
+    "category": "Computer Vision",
+    "example_input": {
+      "prompt": "a watercolor painting of a rabbit",
+      "negative": "text, ugly",
+      "num_inference_steps": 50,
+      "guidance_scale": 7.5
+    },
+    "example_output": {
+      "image_base64": "<BASE64_STRING>"
+    }
+}
+  
